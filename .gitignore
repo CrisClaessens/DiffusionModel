@@ -1,0 +1,5 @@
+# Directories
+.idea/
+__pycache__/
+stanford_cars/
+
